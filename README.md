@@ -1,4 +1,4 @@
-Hugo Corrêa Rosa - Front-End Developer
+Sou Hugo, desenvolvedor front-end
 <div style="display: inline_block">
   <br>
   <img align="center" alt="hc-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
