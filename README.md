@@ -3,7 +3,7 @@
    
    <h3>Calculadora em Angular > https://calc-angular.netlify.app/ <br><br>
     Consumo de API que retorna conselhos em JavaScript puro > https://advicehc.netlify.app/ <br><br>
-    Concessionária automotiva feito em Bootstrap > https://hcar.netlify.app/ <br><br>
+    Jogo da velha em JavaScript Puro > https://tictactoe-hc.netlify.app/<br><br>
     Sistema para peguntas e respostas feito em Node.js e SQL > https://github.com/hugocrosa/hjeep<br><br></h3>
    
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hugocrosa&langs_count=5&theme=tokyonight)]()  
