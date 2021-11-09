@@ -4,6 +4,7 @@
    <h3>Calculadora em Angular > https://calc-angular.netlify.app/ <br><br>
     Consumo de API que retorna conselhos em JavaScript puro > https://advicehc.netlify.app/ <br><br>
     Jogo da velha em JavaScript Puro > https://tictactoe-hc.netlify.app/<br><br>
+    CRUD To Do List em Angular > https://gerenciadortarefashc.netlify.app/tarefas/listar<br><br>
     Sistema para peguntas e respostas feito em Node.js e SQL > https://github.com/hugocrosa/hjeep<br><br></h3>
    
   
