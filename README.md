@@ -1,4 +1,4 @@
-<h1>Sou Hugo, Desenvolvedor front-end 👨🏾‍💻<h1>
+<h1>Sou Hugo, Desenvolvedor front-end e Android 📱💻<h1>
  <h2>Conheça meus projetos! 🚀 <h2>
    
    <h3>Calculadora em Angular > https://calc-angular.netlify.app/ <br><br>
