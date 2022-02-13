@@ -2,7 +2,7 @@
  <h2>Conheça meus projetos! 🚀 <h2>
    
    <h3> App em nativo para Sorteios de números aleatórios de 0 a 10 - https://github.com/hugocrosa/sorteio_app<br><br>
-  
+         App em nativo com a interface de um site de notícias, auto adaptável ao tamanho da tela - https://github.com/hugocrosa/noticias_app<br><br>
   </h3>
    
   
