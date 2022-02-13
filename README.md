@@ -1,7 +1,7 @@
 <h1>Sou Hugo, Desenvolvedor Android 📱<h1>
  <h2>Conheça meus projetos! 🚀 <h2>
    
-   <h3> App em nativo para Sorteios de números aleatórios de 0 a 9 - https://github.com/hugocrosa/sorteio_app<br><br>
+   <h3> App em nativo para Sorteios de números aleatórios de 0 a 10 - https://github.com/hugocrosa/sorteio_app<br><br>
   
   </h3>
    
